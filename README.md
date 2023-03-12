@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ITeamsTech**
 
-- 🌱 I’m currently learning **Tensorflow, AWZ**
+- 🌱 I’m currently learning **Tensorflow, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvgfern&show_icons=true&locale=en&layout=compact" alt="jvgfern" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvgfern&show_icons=true&locale=en" alt="jvgfern" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvgfern&show_icons=true&locale=en&theme=dark" alt="jvgfern" /></p>
