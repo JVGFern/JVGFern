@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vittor Gomes Fernandes</h1>
 <h3 align="center">Full-Satck developer from Brazil.I'm loves working in projects with change The world</h3>
 
-- 🔭 I’m currently working on **ITeamsTech**
-
-- 🌱 I’m currently learning **Tensorflow, AWS**
+- 🔭 I’m currently working on **Celk Sistemas**
 
 
 
